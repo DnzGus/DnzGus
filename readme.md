@@ -10,8 +10,11 @@ Since I started coding i'm improving my skills everyday that passes by.
 *   ✉️  You can contact me at [gustavodtsilva@gmail.com](mailto:gustavodtsilva@gmail.com)
 *   🚀  I'm currently working on [an game that helps people to train english](http://https://dnzgus.neocities.org/trainingEnglish/)
 *   🧠  I'm learning JavaScript, BootStrap, PHP(basic), Python(basic)
-*   🤝  I'm open to collaborating on any project that you offer<a href="https://www.github.com/DnzGus" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DnzGus?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+*   🤝  I'm open to collaborating on any project that you offer
+
+
+
+<a href="https://www.github.com/DnzGus" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/DnzGus?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>### Skills 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
