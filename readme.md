@@ -8,7 +8,7 @@ Since I started coding i'm improving my skills everyday that passes by.
 
 *   🌍  I'm based in Rio de Janeiro, BR
 *   ✉️  You can contact me at [gustavodtsilva@gmail.com](mailto:gustavodtsilva@gmail.com)
-*   🚀  I'm currently working on <a href="https://dnzgus.neocities.org/trainingEnglish/">an game that help people to learn english</a>
+*   🚀  I'm currently working on <a target="_blank" href="https://dnzgus.neocities.org/trainingEnglish/">an game that help people to learn english</a>
 *   🧠  I'm learning JavaScript, BootStrap, PHP(basic), Python(basic)
 *   🤝  I'm open to collaborating on any project that you offer
 
