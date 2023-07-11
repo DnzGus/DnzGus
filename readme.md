@@ -25,7 +25,6 @@ Skills.<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DnzGus&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/DnzGus)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)]
-(https://github.com/DnzGus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/DnzGus)
 <br>
 
