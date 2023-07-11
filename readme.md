@@ -20,11 +20,11 @@ Skills.<br>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DnzGus&repo=Side-Projects&theme=tokyonight)](https://github.com/DnzGus/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DnzGus&repo=Side-Projects&theme=tokyonight)]
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DnzGus&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/DnzGus/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DnzGus&theme=tokyonight&count_private=true&show_icons=true)]
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/DnzGus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)]
 
